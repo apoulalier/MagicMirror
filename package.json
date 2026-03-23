@@ -75,6 +75,7 @@
 		"*.css": "stylelint --fix"
 	},
 	"dependencies": {
+		"@google-cloud/local-auth": "^3.0.1",
 		"@fontsource/roboto": "^5.2.9",
 		"@fontsource/roboto-condensed": "^5.2.8",
 		"@fortawesome/fontawesome-free": "^7.1.0",
